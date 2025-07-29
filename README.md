@@ -30,23 +30,15 @@ Back-end:
 - Validação de formulários
 - Listagem e edição de dados
 - Gerenciamento de tópicos
-- Dashboard com comparativo de ocorrências ao longo dos meses
-- Filtragem de ocorrências por mês
-- Informações de unidades com mais ocorrências
-- ACL para controle de permissões de usuário
+- Filtragem tópicos criados
 
-Gerenciamento total (CRUD) de:
-
-- Condomínios
-- Itens
-- Usuários
 
 ## 🛠️ Como rodar o projeto
 
 1. Tenha em sua máquina um ambiente que faça a emulação de um servidor, como Xampp ou Docker instalado e parametrizado.
 2. Clone o repositório:
 ```bash
-git clone git@github.com:gabrieltec97/SmartDesk
+git clone git@github.com:gabrieltec97/Sapientia
 ```
 3. A continuar daqui.
 
